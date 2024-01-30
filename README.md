@@ -15,3 +15,4 @@ This approach provides a flexible mechanism for implementing spells with multipl
 I've actually created a more complex script that is forthcoming in a later video which allows the cooldown period to be visually applied directly to the spell. There's quite a few additional steps involved, however, and is functionally the same. This script is primarilly for beginners in cpp. 
 
 Video Tutorial:
+https://youtu.be/Rwigf0MSG1s
